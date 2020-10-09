@@ -7,4 +7,4 @@ El objetivo de este repositorio es compartir con las personas la solución de lo
 ## Challenges
 
 ### Challenge 1
-En este [link](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0) puedes encontrar la información de este desafío, dentro de la carpeta BaseApprelChallenge vas a encontrar la solucion por el momento para la version mobile, y puedes ver el resultado [aquí](https://priceless-bohr-d49723.netlify.app/baseapprelchallenge/). 
+En este [link](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0) puedes encontrar la información de este desafío, dentro de la carpeta BaseApprelChallenge vas a encontrar la solucion y puedes ver el resultado [aquí](https://priceless-bohr-d49723.netlify.app/baseapprelchallenge/). 
